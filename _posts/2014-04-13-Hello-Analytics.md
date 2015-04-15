@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GOP primary: Walker gaining steam
+title: Hello Analytics
 ---
-GOP primary is getting interesting. Jeb Bush still has the lead and his poll numbers are still growing, but Walker is catching-up. TAccording to NH1, Walker's poll numbers are surging in New Hampshire[1].
+GOP primary is getting interesting. Jeb Bush still has the lead and his poll numbers are still growing, but Walker is catching-up. According to NH1, Walker's poll numbers are surging in New Hampshire[1].
 
 
 ![My helpful screenshot]({{ site.url }}/images/gop1.png)
